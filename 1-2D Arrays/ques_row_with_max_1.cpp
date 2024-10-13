@@ -1,5 +1,3 @@
-//row with max 1: https://www.naukri.com/code360/problems/row-with-maximum-1-s_1112656?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTabValue=SUBMISSION
-
 #include<bits/stdc++.h>
 using namespace std;
 
