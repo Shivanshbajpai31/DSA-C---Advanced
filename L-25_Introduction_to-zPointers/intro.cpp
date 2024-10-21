@@ -5,7 +5,7 @@ int main(){
     int num=5;
     cout << num << endl;
 
-    //To find the addtess we use &
+    //To find the address we use &
     cout <<"address of num is :" << &num << endl;
     return 0;
 }
