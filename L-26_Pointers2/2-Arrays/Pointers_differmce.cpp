@@ -15,11 +15,22 @@ int main(){
     cout << sizeof(&ptr) << endl; // gives 4 */
 
     // for addresss
+    /*
     cout << "1 is" << &temp[0] << endl;
 
     int *p=&temp[0];
-    cout << "2" << &p << endl;
+    cout << "2" << &p << endl; 
+    */
 
+    // for symbol table 
+    // in this we cannot change symbol table in arrays 
+    int arr[10];
+    int *ptr=&arr[0];
+     cout << ptr << endl;
+     ptr=ptr+1;
+     cout << ptr << endl;
+
+    
 
     return 0;
 
