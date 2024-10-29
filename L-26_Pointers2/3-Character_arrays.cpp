@@ -9,5 +9,6 @@ int main(){
     cout << ch << endl;
 
     char *c=&ch[0];
+    cout << c << endl; //  bad praticeee print entire characters
     return 0;
 }
