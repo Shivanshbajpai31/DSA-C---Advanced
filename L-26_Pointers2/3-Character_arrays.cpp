@@ -10,5 +10,9 @@ int main(){
 
     char *c=&ch[0];
     cout << c << endl; //  bad praticeee print entire characters
+
+    char temp='z';
+    char *p=&temp;
+    cout << p << endl;  // bad praticeeee
     return 0;
 }
