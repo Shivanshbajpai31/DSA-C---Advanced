@@ -2,7 +2,7 @@
 using namespace std;
 
 int getSum(int arr[] , int n){
-    cout << "Size: " << sizeof(arr) << endl; // it will size of an address not full arrays.
+    cout << "Size: " << sizeof(arr) << endl; // it will  give the size of an address, not full arrays size .
     
     int sum=0;
     for(int i=0 ; i<n ;i++){
