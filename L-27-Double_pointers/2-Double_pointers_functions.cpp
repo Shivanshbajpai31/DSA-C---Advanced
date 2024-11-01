@@ -7,7 +7,7 @@ void update(int **p){
 
    // *p=*p+1; // it will update the the value of int *p=&i .In this it willmupdate the addresss of &i
 
-   **p=**p+1; // in this it will update the value of i 
+   **p2=**p2+1; // in this it will update the value of i 
 
 }
 int main(){
