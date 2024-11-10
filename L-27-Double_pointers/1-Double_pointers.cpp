@@ -7,8 +7,8 @@ int main(){
     int **p2=&p;
 
     cout << i << endl;
-    cout << *p << endl;
-    cout << *p2 << endl; // give the address value of p
+    cout << *p << endl; // gives the value of of i
+    cout << **p2 << endl; // give the address value of p
 
     cout << &i << endl;
     cout << p << endl;

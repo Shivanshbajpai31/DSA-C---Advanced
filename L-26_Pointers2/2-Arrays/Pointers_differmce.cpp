@@ -6,7 +6,7 @@ int main(){
     /*
     int temp[10]={23,122,41,67};
 
-    cout << sizeof(temp) << endl; // for array it will give 40
+    cout << sizeof(temp) << endl; // for array it will give 40 bytes
     cout  << "1st"<< sizeof(*temp) << endl; //  it will give 4 bytes
     cout  << "2nd"<< sizeof(&temp) << endl; // 8 bytes
 

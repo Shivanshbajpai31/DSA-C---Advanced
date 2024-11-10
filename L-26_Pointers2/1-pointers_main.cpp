@@ -10,7 +10,7 @@ int main(){
     cout << "Address is " << &arr[0] << endl; // gives addressss
 
     cout << "4th is " << *arr << endl;//first memory will print i.e is 11
-    cout << "5th is " << *arr+1 << endl; // it will increment the first array values the valuesss
+    cout << "5th is " << *arr+1 << endl; // it will increment the first array values the valuesss that is 12 .update the value
     cout << " 6th is :" << *(arr+1) << endl; // it will give 22
     cout << "7th is " << *(arr)+1 << endl; // Same things happen in 5th printing statement
     cout << "8th is " << arr[2] << endl;
