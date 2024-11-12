@@ -18,7 +18,7 @@ int main(){
 
     // taking the user input 
     for (int i=0; i <n ; i++){
-        cin >> arr[n];
+        cin >> arr[i];
     }
     int ans=getSum(arr,n);
     cout << "answer is " << ans << endl;
