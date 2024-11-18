@@ -12,7 +12,7 @@ int power(int n){
 int main(){
     int n;
     cin >>n ;
-    cout << endl;6
+    cout << endl;
     int ans=power(n);
     cout << ans << endl;
     return 0;

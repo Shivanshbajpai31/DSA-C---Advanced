@@ -6,7 +6,7 @@ void print(int n){
         return ;
     }
     cout << n << endl ;
-    print(n-1);
+    print(n-1);// recursive relation 
      // processing 
 }
 int main(){
