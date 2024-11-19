@@ -8,6 +8,8 @@ bool isSorted(int arr[], int size){
     if (size==0 || size==1){
         return true;
     }
+
+    // recursive realtion 
     if (arr[0] > arr[1] ){
         return false;
 
