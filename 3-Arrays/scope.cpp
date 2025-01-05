@@ -53,3 +53,22 @@ int main(){
   cout << endl;
   return 0;
 }
+#include<bits/stdc++.h>
+using namespace std;
+
+void update(int arr[], int n){
+  arr1[0]=120;
+  for(int i=0 ; i<3 ;i++){
+    cout<< arr[i] << " ";
+
+  }cout << endl;
+  cout << "Going to the main function" << endl;
+
+
+}
+int main(){
+  int arr1[3]={1,4,5};
+  update(arr,3);
+  // printing the array
+  return 0;
+}
